@@ -1,4 +1,5 @@
 #get the random module which returns an unexpected value within specified range
+#rock paper scissor game
 import random
 print("This is a simple rock paper scissor game ")
 p1s=0
