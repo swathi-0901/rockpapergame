@@ -1,3 +1,4 @@
+#this is to mail via cli
 import smtplib
 
 server = smtplib.SMTP('smtp.gmail.com',587)
