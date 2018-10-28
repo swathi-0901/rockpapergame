@@ -1,3 +1,4 @@
+#this is a python script to send a mail
 import smtplib
 
 server = smtplib.SMTP('smtp.gmail.com',587)
