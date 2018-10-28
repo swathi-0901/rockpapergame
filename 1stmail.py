@@ -1,6 +1,6 @@
 #this is to mail via cli
 import smtplib
-
+#smtp=simple mail tranfer protcol
 server = smtplib.SMTP('smtp.gmail.com',587)
 
 server.starttls()
